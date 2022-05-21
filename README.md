@@ -3,7 +3,7 @@ A bot is moving forward,backward,left,right and stop for holding the mobile-phon
 
 Check the project demo on my [Linkedin Page](https://www.linkedin.com/posts/manish-pakhira-bb7333171_gyroscope-nodemcu-blynk-activity-6623178485751996416-1Gc7/).
 
-** Coding Part: **
+**Coding Part:**
 
 ```
 
